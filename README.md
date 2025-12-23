@@ -36,10 +36,8 @@ I believe that technical skills must be supported by character and communication
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michalmis00&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalmis00&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michalmis00&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michalmis00&layout=compact&theme=radical&hide_border=true)
 
 
 ### 📫 Let's Connect!
